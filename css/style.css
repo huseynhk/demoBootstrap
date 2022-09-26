@@ -1,0 +1,14 @@
+.darkOpacity{
+    background-image: linear-gradient(rgba(0, 0, 0, .9),rgba(0, 0, 0, .9)) , url(/img/img3.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#hero .container{
+    height: 55vh;
+}
+
+.pInfo{
+    font-family: cursive;
+}
